@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EuniceAndroidApplication</string>
+    <string name="hello_world">Hello Eunice Android Application!</string>
 </resources>
